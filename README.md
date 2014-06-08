@@ -1,4 +1,4 @@
 arduino_scripts
 ===============
 
-Arduino mlsc scripts
+Arduino misc scripts
